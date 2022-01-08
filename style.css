@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(rgb(190, 242, 255) 0%, rgb(255, 211, 211) 100%);
+    color: lightskyblue;
+    font-family: Calibri;
+}
+
+#showSketch {
+    margin-left: 70px;
+}
+
+#yourSketch, #confidence, #whatToDraw, #score, #timer {
+    color: #ffffff;
+    font-size: 20px;
+}

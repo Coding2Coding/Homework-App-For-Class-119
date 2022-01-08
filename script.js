@@ -15,7 +15,7 @@ function clearCanvas() {
 
 function setup() {
     canvas = createCanvas(400, 400);
-    canvas.center();
+    canvas.position(570, 320);
     background("pink");
     canvas.mouseReleased(classifyCanvas);
 }
